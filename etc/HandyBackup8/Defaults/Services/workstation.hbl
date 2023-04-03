@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<link>
+	<header>
+		<related_object>Workstation</related_object>
+		<version></version>
+	</header>
+	<parameters>
+		<param name="Name"></param>
+		<param name="CoordinatorHost">localhost</param>
+		<param name="CoordinatorPort">1855</param>
+		<param name="DebugLevel">1</param>
+		<param name="IsSecure">no</param>
+		<param name="TempFolder"></param>
+		<param name="EnableCoordinatorAutoSearch">no</param>
+		<param name="DisableAuthorization">yes</param>
+		<param name="UseDeltaCopying">yes</param>
+		<param name="WorkstationHost"></param>
+		<param name="WorkstationPort"></param>
+	</parameters>
+</link>

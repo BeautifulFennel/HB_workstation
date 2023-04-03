@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<locale lang="fr">
+	<!--Workstation-->
+	<str id="IDS_CANT_LOAD">Impossible de charger la liste des fichiers de paramètres de connexion.</str>
+	<str id="IDS_CANT_CREATE_FOLDER">Impossible de créer un dossier d'index.</str>
+	<str id="IDS_CANT_CREATE_DIRECT">Impossible de créer un dossier d'index.</str>
+	<str id="IDS_CANT_START">Impossible de démarrer le fil pour lire la signature de fichier.</str>
+	<str id="IDS_CANT_ALLOCATE">Impossible d'allouer la mémoire pour le tampon de copie.</str>
+	<str id="IDS_CANT_OPEN_BASE">Impossible d'ouvrir le fichier de base &quot;%s&quot;.</str>
+	<str id="IDS_CANT_OPEN_SOURS">Impossible d'ouvrir le fichier de source &quot;%s&quot;.</str>
+	<str id="IDS_FAILED_ATTRIB">Impossible d'obtenir les attributs du lien. %s. %s.</str>
+	<str id="IDS_FAILED_LISTING">Impossible d'obtenir la liste. %s. %s.</str>
+	<str id="IDS_FAILED_TARGET">Échec d'ouverture du fichier cible pour lire la signature.</str>
+	<str id="IDS_FATAL_SET_ATTRIB">Une erreur fatale s'est produite lors de la définition des attributs de fichier.</str>
+	<str id="IDS_FATAL_GET_ATTRIB">Une erreur fatale s'est produite lors de l'obtention des attributs de fichier.</str>
+	<str id="IDS_FATAL_GET_LISTING">Une erreur fatale s'est produite lors de l'obtention de la liste de dossiers.</str>
+	<str id="IDS_FATAL_GET_TEMPOR">Une erreur fatale s'est produite lors de l'obtention des attributs de fichiers temporaires.</str>
+	<str id="IDS_FATAL_GET_INFORM">Une erreur fatale s'est produite lors de l'obtention d'informations sur l'espace libre.</str>
+	<str id="IDS_FATAL_CREATE">Une erreur fatale s'est produite lors de la création du dossier.</str>
+	<str id="IDS_FATAL_READ">Une erreur fatale s'est produite lors de la lecture du fichier</str>
+	<str id="IDS_FATAL_OPEN">Une erreur fatale s'est produite lors de l'ouverture du fichier</str>
+	<str id="IDS_FATAL_DELETE">Une erreur fatale s'est produite lors de la suppression du dossier.</str>
+	<str id="IDS_FATAL_WRITE">Une erreur fatale s'est produite lors de l'écriture du fichier.</str>
+	<str id="IDS_FATAL_BEGIN">Une erreur fatale s'est produite au début de la transaction.</str>
+	<str id="IDS_FATAL_COMMIT">Une erreur fatale s'est produite lors de la validation de la transaction.</str>
+	<str id="IDS_FATAL_MOVE">Une erreur fatale s'est produite lors du déplacement du fichier.</str>
+	<str id="IDS_FATAL_CLOSE">Une erreur fatale s'est produite lors de la fermeture du fichier.</str>
+	<str id="IDS_USE_SETTING">La définition des attributs de fichier n'est pas prise en charge par l'interface de lecture du système de fichiers. Utilisez plutôt l'interface d'écriture.</str>
+	<str id="IDS_USE_FOLD_CREAT">La création de dossiers n'est pas prise en charge par l'interface de lecture du système de fichiers, utilisez plutôt l'interface d'écriture.</str>
+	<str id="IDS_USE_FOLD_DEL">La suppression de dossiers n'est pas prise en charge par l'interface de lecture du système de fichiers. Utilisez plutôt l'interface d'écriture.</str>
+	<str id="IDS_USE_FILE_DEL">La suppression de fichier n'est pas prise en charge par l'interface de lecture du système de fichiers. Utilisez plutôt l'interface d'écriture.</str>
+	<str id="IDS_USE_FILE_WRIT">L'écriture du fichier n'est pas prise en charge par l'interface de lecture du système de fichiers. Utilisez plutôt l'interface d'écriture.</str>
+	<str id="IDS_USE_TRANSACT">Les transactions ne sont pas prises en charge par l'interface de lecture du système de fichiers, utilisez plutôt l'interface d'écriture.</str>
+	<str id="IDS_USE_FILE_MOV">Le déplacement du fichier n'est pas pris en charge par l'interface de lecture du système de fichiers. Utilisez plutôt l'interface d'écriture.</str>
+	<str id="IDS_ERR_COPING">Copie Delta: Échec d'ouverture du fichier cible pour l'écriture.</str>
+	<str id="IDS_ERR_START">Rsync stat: la source = %d, la cible = %d, la signature = %d, delta = %d".</str>
+	<str id="IDS_ERR_OCCURRED">Une erreur s'est produite lors de l'obtention de la signature du fichier de destination.</str>
+	<str id="IDS_ERR_SYNCHRON">Erreur de synchronisation des threads.</str>
+	<str id="IDS_ERR_STREAM">Arrêt inattendu du flux.</str>
+	<str id="IDS_ERR_STARTCOPY">Appel à StartCopying manquant .</str>
+	<!--Plugins-->
+	<str id="IDS_TRY_ADMIN">Essayez d’exécuter Handy Backup en tant qu’administrateur système. Vérifiez que l'icône de bouclier dans la barre d'outils ci-dessus est grise (désactivée).</str>
+</locale>

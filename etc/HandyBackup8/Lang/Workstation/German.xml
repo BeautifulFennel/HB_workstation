@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale lang="de">
+	<!--Workstation-->
+	<str id="IDS_CANT_LOAD">Die Liste der Verbindungseinstellungsdateien kann nicht geladen werden.</str>
+	<str id="IDS_CANT_CREATE_FOLDER">Indexordner kann nicht angelegt werden.</str>
+	<str id="IDS_CANT_CREATE_DIRECT">Indexverzeichnis kann nicht angelegt werden.</str>
+	<str id="IDS_CANT_START">Thread zum Lesen der Dateisignatur kann nicht gestartet werden.</str>
+	<str id="IDS_CANT_ALLOCATE">Speicher für Kopierpuffer kann nicht zugewiesen werden.</str>
+	<str id="IDS_CANT_OPEN_BASE">Kann Basisdatei &quot;%s&quot; nicht öffnen.</str>
+	<str id="IDS_CANT_OPEN_SOURS">Kann Quelldatei &quot;%s&quot; nicht öffnen.</str>
+	<str id="IDS_FAILED_ATTRIB">Fehler beim Abrufen der Linkattribute. %s. %s.</str>
+	<str id="IDS_FAILED_LISTING">Auflistung konnte nicht abgerufen werden. %s. %s.</str>
+	<str id="IDS_FAILED_TARGET">Fehler beim Öffnen der Zieldatei zum Lesen der Signatur.</str>
+	<str id="IDS_FATAL_SET_ATTRIB">Beim Setzen von Dateiattributen ist ein schwerwiegender Fehler aufgetreten.</str>
+	<str id="IDS_FATAL_GET_ATTRIB">Beim Abrufen von Dateiattributen ist ein schwerwiegender Fehler aufgetreten.</str>
+	<str id="IDS_FATAL_GET_LISTING">Beim Abrufen der Verzeichnisliste ist ein schwerwiegender Fehler aufgetreten.</str>
+	<str id="IDS_FATAL_GET_TEMPOR">Beim Abrufen temporärer Dateiattribute ist ein schwerwiegender Fehler aufgetreten.</str>
+	<str id="IDS_FATAL_GET_INFORM">Beim Abrufen von Informationen zum freien Speicherplatz ist ein schwerwiegender Fehler aufgetreten.</str>
+	<str id="IDS_FATAL_CREATE">Beim Anlegen des Odners ist ein schwerwiegender Fehler aufgetreten.</str>
+	<str id="IDS_FATAL_READ">Beim Lesen der Datei ist ein schwerwiegender Fehler aufgetreten.</str>
+	<str id="IDS_FATAL_OPEN">Beim Öffnen der Datei ist ein schwerwiegender Fehler aufgetreten.</str>
+	<str id="IDS_FATAL_DELETE">Beim Löschen des Ordners ist ein schwerwiegender Fehler aufgetreten..</str>
+	<str id="IDS_FATAL_WRITE">Beim Schreiben der Datei ist ein schwerwiegender Fehler aufgetreten..</str>
+	<str id="IDS_FATAL_BEGIN">Beim Beginn der Transaktion ist ein schwerwiegender Fehler aufgetreten.</str>
+	<str id="IDS_FATAL_COMMIT">Beim Übergeben der Transaktion ist ein schwerwiegender Fehler aufgetreten.</str>
+	<str id="IDS_FATAL_MOVE">Beim Verschieben der Datei ist ein schwerwiegender Fehler aufgetreten.</str>
+	<str id="IDS_FATAL_CLOSE">Beim Schließen der Datei ist ein schwerwiegender Fehler aufgetreten.</str>
+	<str id="IDS_USE_SETTING">Das Setzen von Dateiattributen wird von der Dateisystem-Leseschnittstelle nicht unterstützt, verwenden Sie stattdessen die Schreibschnittstelle.</str>
+	<str id="IDS_USE_FOLD_CREAT">Das Anlegen von Ordnern wird von der Dateisystem-Leseschnittstelle nicht unterstützt, verwenden Sie stattdessen die Schreibschnittstelle.</str>
+	<str id="IDS_USE_FOLD_DEL">Das Löschen von Ordnern wird von der Dateisystem-Leseschnittstelle nicht unterstützt, verwenden Sie stattdessen die Schreibschnittstelle.</str>
+	<str id="IDS_USE_FILE_DEL">Das Löschen von Dateien wird von der Dateisystem-Leseschnittstelle nicht unterstützt, verwenden Sie stattdessen die Schreibschnittstelle.</str>
+	<str id="IDS_USE_FILE_WRIT">Die Datei zu schreiben wird von der Dateisystem-Leseschnittstelle nicht unterstützt, verwenden Sie stattdessen die Schreibschnittstelle.</str>
+	<str id="IDS_USE_TRANSACT">Transaktionen werden von der Dateisystem-Leseschnittstelle nicht unterstützt, verwenden Sie stattdessen die Schreibschnittstelle.</str>
+	<str id="IDS_USE_FILE_MOV">Die Datei zu verschieben wird von der Dateisystem-Leseschnittstelle nicht unterstützt, verwenden Sie stattdessen die Schreibschnittstelle.</str>
+	<str id="IDS_ERR_COPING">Delta-Kopieren: Öffnen der Zieldatei zum Schreiben fehlgeschlagen.</str>
+	<str id="IDS_ERR_START">Rsync stat: source = %d, target = %d, signature = %d, delta = %d".</str>
+	<str id="IDS_ERR_OCCURRED">Fehler bei der Anforderung der Signatur der Zieldatei.</str>
+	<str id="IDS_ERR_SYNCHRON">Fehler beim Synchronisieren der Threads.</str>
+	<str id="IDS_ERR_STREAM">Unerwartete Stream-Beendigung.</str>
+	<str id="IDS_ERR_STARTCOPY">Fehlender StartCopying-Aufruf.</str>
+	<!--Plugins-->
+	<str id="IDS_TRY_ADMIN">Versuchen Sie, Handy Backup als Systemadministrator auszuführen. Vergewissern Sie sich, dass das Schildsymbol in der Symbolleiste oben grau (deaktiviert) ist.</str>
+</locale>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale lang="en">
+	<!--Workstation-->
+	<str id="IDS_CANT_LOAD">Can't load connection settings files list.</str>
+	<str id="IDS_CANT_CREATE_FOLDER">Can't create index folder.</str>
+	<str id="IDS_CANT_CREATE_DIRECT">Can't create index directory.</str>
+	<str id="IDS_CANT_START">Can't start thread for the file signature reading.</str>
+	<str id="IDS_CANT_ALLOCATE">Can't allocate memory for copy buffer.</str>
+	<str id="IDS_CANT_OPEN_BASE">Can't open base file &quot;%s&quot;.</str>
+	<str id="IDS_CANT_OPEN_SOURS">Can't open source file &quot;%s&quot;.</str>
+	<str id="IDS_FAILED_ATTRIB">Failed to get link attributes. %s. %s.</str>
+	<str id="IDS_FAILED_LISTING">Failed to get listing. %s. %s.</str>
+	<str id="IDS_FAILED_TARGET">Failed to open target file for signature reading.</str>
+	<str id="IDS_FATAL_SET_ATTRIB">Fatal error occurred while setting file attributes.</str>
+	<str id="IDS_FATAL_GET_ATTRIB">Fatal error occurred while getting file attributes.</str>
+	<str id="IDS_FATAL_GET_LISTING">Fatal error occurred while getting directory listing.</str>
+	<str id="IDS_FATAL_GET_TEMPOR">Fatal error occurred while getting temporary file attributes.</str>
+	<str id="IDS_FATAL_GET_INFORM">Fatal error occurred while getting free space information.</str>
+	<str id="IDS_FATAL_CREATE">Fatal error occurred while creating the folder.</str>
+	<str id="IDS_FATAL_READ">Fatal error occurred while reading the file</str>
+	<str id="IDS_FATAL_OPEN">Fatal error occurred while opening the file</str>
+	<str id="IDS_FATAL_DELETE">Fatal error occurred while deleting the folder.</str>
+	<str id="IDS_FATAL_WRITE">Fatal error occurred while writing the file.</str>
+	<str id="IDS_FATAL_BEGIN">Fatal error occurred while beginning transaction.</str>
+	<str id="IDS_FATAL_COMMIT">Fatal error occurred while committing transaction.</str>
+	<str id="IDS_FATAL_MOVE">Fatal error occurred while moving the file.</str>
+	<str id="IDS_FATAL_CLOSE">Fatal error occurred while closing the file.</str>
+	<str id="IDS_USE_SETTING">Setting file attributes is not supported by the file system read interface, use write interface instead.</str>
+	<str id="IDS_USE_FOLD_CREAT">Folder creation is not supported by the file system read interface, use write interface instead.</str>
+	<str id="IDS_USE_FOLD_DEL">Folder deletion is not supported by the file system read interface, use write interface instead.</str>
+	<str id="IDS_USE_FILE_DEL">File deletion is not supported by the file system read interface, use write interface instead.</str>
+	<str id="IDS_USE_FILE_WRIT">Writing the file is not supported by the file system read interface, use write interface instead.</str>
+	<str id="IDS_USE_TRANSACT">Transactions are not supported by the file system read interface, use write interface instead.</str>
+	<str id="IDS_USE_FILE_MOV">Moving the file is not supported by the file system read interface, use write interface instead.</str>
+	<str id="IDS_ERR_COPING">Delta copying: Failed to open target file for writing.</str>
+	<str id="IDS_ERR_START">Rsync stat: source = %d, target = %d, signature = %d, delta = %d".</str>
+	<str id="IDS_ERR_OCCURRED">Error occurred, while getting destination file signature.</str>
+	<str id="IDS_ERR_SYNCHRON">Threads synchronization error.</str>
+	<str id="IDS_ERR_STREAM">Unexpected stream termination.</str>
+	<str id="IDS_ERR_STARTCOPY">Missing StartCopying call.</str>
+	<!--Plugins-->
+	<str id="IDS_TRY_ADMIN">Try to run Handy Backup as system administrator. Check that the shield icon on the toolbar above is gray (disabled).</str>
+</locale>
